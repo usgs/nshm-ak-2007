@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SubductionSourceSet id="-1" name="Yakataga Zone" weight="1.0">
+  <!-- This model is an example and for review purposes only -->
+  <!-- Original source file: yak.out_revF.in -->
+  <Settings>
+    <SourceProperties ruptureScaling="NSHM_SUB_GEOMAT_LENGTH"/>
+  </Settings>
+  <Source id="-1" name="Yakataga">
+    <IncrementalMfd type="GR" a="2.180" b="0.666" dMag="0.1" mMin="7.0" mMax="8.1" weight="1.0"/>
+    <Geometry rake="90.0">
+      <Trace>
+        220.5,59.1,15
+        220.0,59.1,15
+        219.0,59.1,15
+        218.0,59.1,15
+        217.0,59.1,15
+        216.0,59.1,15
+        215.0,59.1,15
+        214.6,59.1,15
+      </Trace>
+      <LowerTrace>
+        220.5,61.0,15
+        220.0,61.0,15
+        219.0,61.0,15
+        218.0,61.0,15
+        217.0,61.0,15
+        216.0,61.0,15
+        215.0,61.0,15
+        214.6,61.0,15
+      </LowerTrace>
+    </Geometry>
+  </Source>
+</SubductionSourceSet>

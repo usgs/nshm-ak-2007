@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GroundMotionModels>
+  <!-- This model is an example and for review purposes only -->
+  <ModelSet maxDistance="70.0">
+    <Model id="YOUNGS_97_INTER" weight="0.5"/>
+    <Model id="SADIGH_97" weight="0.5"/>
+  </ModelSet>
+  <ModelSet maxDistance="1000.0">
+    <Model id="YOUNGS_97_INTER" weight="1.0"/>
+  </ModelSet>
+</GroundMotionModels>
