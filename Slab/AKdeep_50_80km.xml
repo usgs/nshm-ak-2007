@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<GridSourceSet id="-1" name="50 to 80 km" weight="1.0">
+<GridSourceSet id="-1" name="Intraslab 50 to 80 km" weight="1.0">
   <!-- This model is an example and for review purposes only -->
   <!-- Original source file: AKDEEP.out_revF.in -->
   <Settings>
     <DefaultMfds>
       <IncrementalMfd type="GR" a="0.0" b="0.858" dMag="0.1" mMin="5.0" mMax="7.5" weight="1.0"/>
     </DefaultMfds>
-    <!-- For deep earthquakes, a focal depth of 60 km for earthquakes in the depth interval 50 to 80 km was used (vs. midpoint of interval), as the distribution of earthquakes is strongly biased toward the shallower depths -->
-    <SourceProperties focalMechMap="[STRIKE_SLIP:1.0,NORMAL:0.0,REVERSE:0.0]" magDepthMap="[10.0::[60.0:1.0]]" maxDepth="68.0" ruptureScaling="NSHM_SUB_GEOMAT_LENGTH" strike="NaN"/>
+    <!-- For deep earthquakes, a focal depth of 60 km for earthquakes
+         in the depth interval 50 to 80 km was used (vs. midpoint of
+         interval), as the distribution of earthquakes is strongly biased
+         toward shallower depths. -->
+    <SourceProperties focalMechMap="[STRIKE_SLIP:1.0,NORMAL:0.0,REVERSE:0.0]" magDepthMap="[10.0::[60.0:1.0]]" maxDepth="68.0" ruptureScaling="NONE" strike="NaN"/>
   </Settings>
   <Nodes>
     <Node a="5.4296300E+00" type="GR">160.3,53.7,0.0</Node>

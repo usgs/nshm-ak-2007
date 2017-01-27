@@ -6,8 +6,11 @@
     <DefaultMfds>
       <IncrementalMfd type="GR" a="0.0" b="1.007" dMag="0.1" mMin="5.0" mMax="7.5" weight="1.0"/>
     </DefaultMfds>
-    <!-- For deeper earthquakes, a focal depth of 90 km for earthquakes in the depth interval 80 to 120 km was used (vs. midpoint of interval), as the distribution of earthquakes is strongly biased toward the shallower depths -->
-    <SourceProperties focalMechMap="[STRIKE_SLIP:1.0,NORMAL:0.0,REVERSE:0.0]" magDepthMap="[10.0::[90.0:1.0]]" maxDepth="98.0" ruptureScaling="NSHM_SUB_GEOMAT_LENGTH" strike="NaN"/>
+    <!-- For deeper earthquakes, a focal depth of 90 km for earthquakes
+         in the depth interval 80 to 120 km was used (vs. midpoint of
+         interval), as the distribution of earthquakes is strongly biased
+         toward shallower depths. -->
+    <SourceProperties focalMechMap="[STRIKE_SLIP:1.0,NORMAL:0.0,REVERSE:0.0]" magDepthMap="[10.0::[90.0:1.0]]" maxDepth="98.0" ruptureScaling="NONE" strike="NaN"/>
   </Settings>
   <Nodes>
     <Node a="4.1560300E+01" type="GR">207.1,59.8,0.0</Node>
