@@ -5,8 +5,8 @@
   <Settings>
     <SourceProperties ruptureScaling="NSHM_SUB_GEOMAT_LENGTH"/>
   </Settings>
-  <Source id="-1" name="Transition Zone Fault">
-    <IncrementalMfd type="SINGLE" rate="5.6869" m="8.2" floats="false" weight="1.0"/>
+  <Source id="-1" name="Transition Zone Segment">
+    <IncrementalMfd type="SINGLE" rate="0.003069022" m="8.2" floats="true" weight="1.0"/>
     <Geometry rake="90.0">
       <Trace>
         223.5,57.6,0

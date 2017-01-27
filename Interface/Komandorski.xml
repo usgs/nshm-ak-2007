@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<SubductionSourceSet id="-1" name="Far Western Aleutians" weight="1.0">
+<SubductionSourceSet id="-1" name="Komandorski Island Region" weight="1.0">
   <!-- This model is an example and for review purposes only -->
   <!-- Original source file: megaF.out_revF.in -->
   <!-- This source originally was referred to as the 'Far Western Aleutians' 
@@ -8,27 +8,27 @@
   <Settings>
     <SourceProperties ruptureScaling="NSHM_SUB_GEOMAT_LENGTH"/>
   </Settings>
-  <Source id="-1" name="Komandorski Island Region">
+  <Source id="-1" name="Komandorski Island Segment">
     <IncrementalMfd type="GR" a="2.69" b="0.773" dMag="0.1" mMin="8.0" mMax="9.2" weight="1.0"/>
     <Geometry rake="90.0">
       <Trace>
-        170.2,53.0,20
-        170.0,53.0,20
-        169.0,53.4,20
-        168.0,53.9,20
-        167.0,54.3,20
-        166.0,54.8,20
-        165.0,55.2,20
-        164.7,55.3,20
+        170.2,52.95,20.0
+        170.0,53.03,20.0
+        169.0,53.42,20.0
+        168.0,53.90,20.0
+        167.0,54.30,20.0
+        166.0,54.75,20.0
+        165.0,55.20,20.0
+        164.7,55.30,20.0
       </Trace>
       <LowerTrace>
-        170.6,53.4,50
-        170.0,53.6,50
-        169.0,54.0,50
-        168.0,54.5,50
-        167.0,54.9,50
-        166.0,55.3,50
-        165.0,55.6,50
+        170.6,53.36,50.0
+        170.0,53.60,50.0
+        169.0,54.04,50.0
+        168.0,54.45,50.0
+        167.0,54.85,50.0
+        166.0,55.28,50.0
+        165.0,55.62,50.0
       </LowerTrace>
     </Geometry>
   </Source>

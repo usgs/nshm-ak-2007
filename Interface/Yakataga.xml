@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<SubductionSourceSet id="-1" name="Yakataga Zone" weight="1.0">
+<SubductionSourceSet id="-1" name="Yakataga Region" weight="1.0">
   <!-- This model is an example and for review purposes only -->
   <!-- Original source file: yak.out_revF.in -->
   <!-- The Yakataga Zone is modeled as a flat source; given upper
        and lower traces defined, it does not violate a minimum dip -->
   <Settings>
-    <SourceProperties ruptureScaling="NSHM_FAULT_WC94_LENGTH"/>
+    <SourceProperties ruptureScaling="NSHM_SUB_GEOMAT_LENGTH"/>
   </Settings>
-  <Source id="-1" name="Yakataga – Icy Bay Megathrust">
+  <Source id="-1" name="Yakataga – Icy Bay Segment">
     <IncrementalMfd type="GR" a="2.18" b="0.666" dMag="0.1" mMin="7.0" mMax="8.1" weight="1.0"/>
     <Geometry rake="90.0">
       <Trace>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<SubductionSourceSet id="-1" name="Semidi Zone" weight="1.0">
+<SubductionSourceSet id="-1" name="Semidi Island Region" weight="1.0">
   <!-- This model is an example and for review purposes only -->
   <!-- Original source file: megaB.out_revF.in -->
   <Settings>
     <SourceProperties ruptureScaling="NSHM_SUB_GEOMAT_LENGTH"/>
   </Settings>
-  <Source id="-1" name="Semidi Region">
+  <Source id="-1" name="Semidi Island Segment">
     <IncrementalMfd type="GR" a="2.4" b="0.71" dMag="0.1" mMin="8.0" mMax="8.5" weight="1.0"/>
     <Geometry rake="90.0">
       <Trace>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<SubductionSourceSet id="-1" name="Kodiak Zone" weight="1.0">
+<SubductionSourceSet id="-1" name="Kodiak Region" weight="1.0">
   <!-- This model is an example and for review purposes only -->
   <!-- Original source file: megaD.out_revF.in -->
   <Settings>
     <SourceProperties ruptureScaling="NSHM_SUB_GEOMAT_LENGTH"/>
   </Settings>
   <Source id="-1" name="Kodiak Segment">
-    <IncrementalMfd type="SINGLE" rate="5.9871" m="8.8" floats="false" weight="1.0"/>
+    <IncrementalMfd type="SINGLE" rate="0.001538155" m="8.8" floats="true" weight="1.0"/>
     <Geometry rake="90.0">
       <Trace>
         211.0,57.9,20
