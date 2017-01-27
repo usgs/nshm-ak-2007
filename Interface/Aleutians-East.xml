@@ -6,7 +6,7 @@
     <SourceProperties ruptureScaling="NSHM_SUB_GEOMAT_LENGTH"/>
   </Settings>
   <Source id="-1" name="Eastern Aleutian Segment">
-    <IncrementalMfd type="SINGLE" rate="0.001538155" m="9.2" floats="true" weight="1.0"/>
+    <IncrementalMfd type="SINGLE" rate="0.00153851" m="9.2" floats="true" weight="1.0"/>
     <Geometry rake="90.0">
       <Trace>
         215.834,60.102,20.0
