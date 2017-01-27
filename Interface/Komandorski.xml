@@ -8,8 +8,8 @@
   <Settings>
     <SourceProperties ruptureScaling="NSHM_SUB_GEOMAT_LENGTH"/>
   </Settings>
-  <Source id="-1" name="Far Western Aleutians">
-    <IncrementalMfd type="GR" a="2.690" b="0.773" dMag="0.1" mMin="8.0" mMax="9.2" weight="1.0"/>
+  <Source id="-1" name="Komandorski Island Region">
+    <IncrementalMfd type="GR" a="2.69" b="0.773" dMag="0.1" mMin="8.0" mMax="9.2" weight="1.0"/>
     <Geometry rake="90.0">
       <Trace>
         170.2,53.0,20
