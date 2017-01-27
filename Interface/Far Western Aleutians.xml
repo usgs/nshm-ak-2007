@@ -2,6 +2,9 @@
 <SubductionSourceSet id="-1" name="Far Western Aleutians" weight="1.0">
   <!-- This model is an example and for review purposes only -->
   <!-- Original source file: megaF.out_revF.in -->
+  <!-- This source originally was referred to as the 'Far Western Aleutians' 
+       in Table 3 of the OFR, but more commonly referred to in text and
+       figures as the Komandorski Island Region -->
   <Settings>
     <SourceProperties ruptureScaling="NSHM_SUB_GEOMAT_LENGTH"/>
   </Settings>
