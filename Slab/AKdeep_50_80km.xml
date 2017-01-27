@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<GridSourceSet id="-1" name="AKdeep_50_80km" weight="1.0">
+<GridSourceSet id="-1" name="50 to 80 km" weight="1.0">
   <!-- This model is an example and for review purposes only -->
   <!-- Original source file: AKDEEP.out_revF.in -->
   <Settings>
