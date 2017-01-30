@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <FaultSourceSet id="-1" name="Kodiak Island and Narrow Cape Faults" weight="1.0">
   <!-- This model is an example and for review purposes only -->
-  <!-- Original source files: AKF4.out_revF.in and AKF5.out_revF.in -->
+  <!-- Original source files: AKF4.out_revF.in, AKF5.out_revF.in -->
   <Settings>
     <MagUncertainty>
       <Epistemic cutoff="6.5" deltas="[-0.2, 0.0, 0.2]" weights="[0.2, 0.6, 0.2]"/>
