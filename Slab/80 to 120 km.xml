@@ -10,7 +10,8 @@
          in the depth interval 80 to 120 km was used (vs. midpoint of
          interval), as the distribution of earthquakes is strongly biased
          toward shallower depths. -->
-    <SourceProperties focalMechMap="[STRIKE_SLIP:1.0,NORMAL:0.0,REVERSE:0.0]" magDepthMap="[10.0::[90.0:1.0]]" maxDepth="98.0" ruptureScaling="NONE" strike="NaN"/>
+    <!-- Catalog smoothed with 50km correlation distance -->
+    <SourceProperties focalMechMap="[STRIKE_SLIP:1.0,NORMAL:0.0,REVERSE:0.0]" magDepthMap="[10.0::[90.0:1.0]]" maxDepth="98.0" ruptureScaling="NSHM_SUB_GEOMAT_LENGTH" strike="NaN"/>
   </Settings>
   <Nodes>
     <Node a="4.1560300E+01" type="GR">207.1,59.8,0.0</Node>

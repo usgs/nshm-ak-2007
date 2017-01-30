@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<GridSourceSet id="-1" name="AKshallow_0_50km_megathrust" weight="1.0">
+<GridSourceSet id="-1" name="Megathrust Seismicity" weight="1.0">
   <!-- This model is an example and for review purposes only -->
   <!-- Original source file: AKMT.out_revF.in -->
   <Settings>
     <DefaultMfds>
       <IncrementalMfd type="GR" a="0.0" b="0.0" dMag="0.1" mMin="5.0" mMax="7.0" weight="1.0"/>
     </DefaultMfds>
-    <!-- For shallow earthquakes, a focal depth of 5 km was assumed -->
+    <!-- For shallow earthquakes, a focal depth of 5 km was assumed 
+         (vs. midpoint of 0 to 50 km interval). -->
+    <!-- Assigned rates (vs. derived by smoothing). -->
     <SourceProperties focalMechMap="[STRIKE_SLIP:0.5,NORMAL:0.0,REVERSE:0.5]" magDepthMap="[10.0::[5.0:1.0]]" maxDepth="15.0" ruptureScaling="NSHM_POINT_WC94_LENGTH" strike="NaN"/>
   </Settings>
   <Nodes>
