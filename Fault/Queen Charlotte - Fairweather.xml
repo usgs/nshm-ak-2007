@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<FaultSourceSet id="-1" name="Queen Charlotte – Fairweather System" weight="0.5">
+<FaultSourceSet id="-1" name="Queen Charlotte – Fairweather System" weight="1.0">
   <!-- This model is an example and for review purposes only -->
   <!-- Original source files: AKF0.out_revF.in, AKF1.out_revF.in -->
+  <!-- Combined GR and CH models -->
   <Settings>
     <MagUncertainty>
       <Epistemic cutoff="6.5" deltas="[-0.2, 0.0, 0.2]" weights="[0.2, 0.6, 0.2]"/>
@@ -10,7 +11,7 @@
     <SourceProperties ruptureScaling="NSHM_FAULT_WC94_LENGTH"/>
   </Settings>
   <Source id="-1" name="Queen Charlotte – Fairweather">
-    <IncrementalMfd type="GR" a="4.6345" b="0.87" dMag="0.1" mMin="7.6" mMax="8.1" weight="1.0"/>
+    <IncrementalMfd type="GR" a="4.6345" b="0.87" dMag="0.1" mMin="7.6" mMax="8.1" weight="0.5"/>
     <Geometry depth="0.0" dip="90.0" rake="0.0" width="15.0">
       <Trace>
         228.172,52.416,0.0
@@ -219,7 +220,7 @@
     </Geometry>
   </Source>
   <Source id="-1" name="Queen Charlotte">
-    <IncrementalMfd type="SINGLE" rate="0.0064923" m="8.1" weight="1.0"/>
+    <IncrementalMfd type="SINGLE" rate="0.0064923" m="8.1" weight="0.5" floats="false"/>
     <Geometry depth="0.0" dip="90.0" rake="0.0" width="15.0">
       <Trace>
         228.172,52.416,0.0
@@ -316,7 +317,7 @@
     </Geometry>
   </Source>
   <Source id="-1" name="Fairweather – Offshore">
-    <IncrementalMfd type="SINGLE" rate="0.0098952" m="7.7" weight="1.0"/>
+    <IncrementalMfd type="SINGLE" rate="0.0098952" m="7.7" weight="0.5" floats="false"/>
     <Geometry depth="0.0" dip="90.0" rake="0.0" width="15.0">
       <Trace>
         224.569,56.012,0.0
@@ -358,7 +359,7 @@
     </Geometry>
   </Source>
   <Source id="-1" name="Fairweather – Onshore">
-    <IncrementalMfd type="SINGLE" rate="0.0065652" m="8.0" weight="1.0"/>
+    <IncrementalMfd type="SINGLE" rate="0.0065652" m="8.0" weight="0.5" floats="false"/>
     <Geometry depth="0.0" dip="90.0" rake="0.0" width="15.0">
       <Trace>
         223.538,57.515,0.0
