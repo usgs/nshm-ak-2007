@@ -1,0 +1,3745 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SystemFaultSections name="Denali – Totschunda System">
+  <!-- This model is an example and for review purposes only -->
+  <!-- Reference: AKF2.out_revF.in, AKF3.out_revF.in -->
+  <Section index="0" name="Denali Center [0]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-154.74000,62.22000,0.00000
+-154.67340,62.23827,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="1" name="Denali Center [1]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-154.67340,62.23827,0.00000
+-154.60672,62.25651,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="2" name="Denali Center [2]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-154.60672,62.25651,0.00000
+-154.53997,62.27471,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="3" name="Denali Center [3]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-154.53997,62.27471,0.00000
+-154.47313,62.29289,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="4" name="Denali Center [4]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-154.47313,62.29289,0.00000
+-154.40621,62.31103,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="5" name="Denali Center [5]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-154.40621,62.31103,0.00000
+-154.33921,62.32914,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="6" name="Denali Center [6]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-154.33921,62.32914,0.00000
+-154.27213,62.34722,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="7" name="Denali Center [7]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-154.27213,62.34722,0.00000
+-154.20496,62.36526,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="8" name="Denali Center [8]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-154.20496,62.36526,0.00000
+-154.13772,62.38328,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="9" name="Denali Center [9]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-154.13772,62.38328,0.00000
+-154.07040,62.40126,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="10" name="Denali Center [10]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-154.07040,62.40126,0.00000
+-154.00299,62.41920,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="11" name="Denali Center [11]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-154.00299,62.41920,0.00000
+-154.00000,62.42000,0.00000
+-153.92984,62.43136,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="12" name="Denali Center [12]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-153.92984,62.43136,0.00000
+-153.85635,62.44321,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="13" name="Denali Center [13]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-153.85635,62.44321,0.00000
+-153.78281,62.45502,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="14" name="Denali Center [14]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-153.78281,62.45502,0.00000
+-153.70920,62.46680,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="15" name="Denali Center [15]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-153.70920,62.46680,0.00000
+-153.63554,62.47853,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="16" name="Denali Center [16]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-153.63554,62.47853,0.00000
+-153.56183,62.49023,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="17" name="Denali Center [17]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-153.56183,62.49023,0.00000
+-153.50000,62.50000,0.00000
+-153.48935,62.50313,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="18" name="Denali Center [18]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-153.48935,62.50313,0.00000
+-153.42353,62.52247,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="19" name="Denali Center [19]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-153.42353,62.52247,0.00000
+-153.35763,62.54177,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="20" name="Denali Center [20]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-153.35763,62.54177,0.00000
+-153.29164,62.56104,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="21" name="Denali Center [21]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-153.29164,62.56104,0.00000
+-153.22556,62.58028,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="22" name="Denali Center [22]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-153.22556,62.58028,0.00000
+-153.15940,62.59949,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="23" name="Denali Center [23]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-153.15940,62.59949,0.00000
+-153.09316,62.61867,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="24" name="Denali Center [24]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-153.09316,62.61867,0.00000
+-153.02683,62.63782,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="25" name="Denali Center [25]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-153.02683,62.63782,0.00000
+-152.96041,62.65693,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="26" name="Denali Center [26]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-152.96041,62.65693,0.00000
+-152.89391,62.67602,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="27" name="Denali Center [27]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-152.89391,62.67602,0.00000
+-152.88000,62.68000,0.00000
+-152.82139,62.68939,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="28" name="Denali Center [28]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-152.82139,62.68939,0.00000
+-152.74725,62.70122,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="29" name="Denali Center [29]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-152.74725,62.70122,0.00000
+-152.67305,62.71301,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="30" name="Denali Center [30]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-152.67305,62.71301,0.00000
+-152.59879,62.72476,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="31" name="Denali Center [31]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-152.59879,62.72476,0.00000
+-152.52447,62.73647,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="32" name="Denali Center [32]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-152.52447,62.73647,0.00000
+-152.45009,62.74814,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="33" name="Denali Center [33]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-152.45009,62.74814,0.00000
+-152.37566,62.75978,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="34" name="Denali Center [34]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-152.37566,62.75978,0.00000
+-152.31000,62.77000,0.00000
+-152.30190,62.77212,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="35" name="Denali Center [35]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-152.30190,62.77212,0.00000
+-152.23350,62.78995,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="36" name="Denali Center [36]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-152.23350,62.78995,0.00000
+-152.16502,62.80775,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="37" name="Denali Center [37]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-152.16502,62.80775,0.00000
+-152.09646,62.82551,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="38" name="Denali Center [38]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-152.09646,62.82551,0.00000
+-152.02782,62.84325,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="39" name="Denali Center [39]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-152.02782,62.84325,0.00000
+-151.95909,62.86094,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="40" name="Denali Center [40]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-151.95909,62.86094,0.00000
+-151.89028,62.87861,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="41" name="Denali Center [41]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-151.89028,62.87861,0.00000
+-151.82139,62.89624,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="42" name="Denali Center [42]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-151.82139,62.89624,0.00000
+-151.75241,62.91384,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="43" name="Denali Center [43]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-151.75241,62.91384,0.00000
+-151.68335,62.93140,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="44" name="Denali Center [44]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-151.68335,62.93140,0.00000
+-151.61421,62.94893,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="45" name="Denali Center [45]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-151.61421,62.94893,0.00000
+-151.61000,62.95000,0.00000
+-151.55151,62.97089,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="46" name="Denali Center [46]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-151.55151,62.97089,0.00000
+-151.48914,62.99311,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="47" name="Denali Center [47]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-151.48914,62.99311,0.00000
+-151.42667,63.01531,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="48" name="Denali Center [48]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-151.42667,63.01531,0.00000
+-151.36410,63.03747,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="49" name="Denali Center [49]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-151.36410,63.03747,0.00000
+-151.30144,63.05961,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="50" name="Denali Center [50]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-151.30144,63.05961,0.00000
+-151.23869,63.08172,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="51" name="Denali Center [51]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-151.23869,63.08172,0.00000
+-151.17584,63.10381,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="52" name="Denali Center [52]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-151.17584,63.10381,0.00000
+-151.11289,63.12586,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="53" name="Denali Center [53]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-151.11289,63.12586,0.00000
+-151.04985,63.14789,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="54" name="Denali Center [54]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-151.04985,63.14789,0.00000
+-150.98671,63.16989,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="55" name="Denali Center [55]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-150.98671,63.16989,0.00000
+-150.92348,63.19186,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="56" name="Denali Center [56]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-150.92348,63.19186,0.00000
+-150.90000,63.20000,0.00000
+-150.85243,63.20729,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="57" name="Denali Center [57]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-150.85243,63.20729,0.00000
+-150.77675,63.21884,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="58" name="Denali Center [58]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-150.77675,63.21884,0.00000
+-150.70101,63.23035,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="59" name="Denali Center [59]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-150.70101,63.23035,0.00000
+-150.62521,63.24182,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="60" name="Denali Center [60]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-150.62521,63.24182,0.00000
+-150.54935,63.25325,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="61" name="Denali Center [61]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-150.54935,63.25325,0.00000
+-150.47343,63.26463,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="62" name="Denali Center [62]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-150.47343,63.26463,0.00000
+-150.39745,63.27598,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="63" name="Denali Center [63]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-150.39745,63.27598,0.00000
+-150.32141,63.28729,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="64" name="Denali Center [64]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-150.32141,63.28729,0.00000
+-150.24531,63.29856,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="65" name="Denali Center [65]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-150.24531,63.29856,0.00000
+-150.22200,63.30200,0.00000
+-150.16811,63.30817,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="66" name="Denali Center [66]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-150.16811,63.30817,0.00000
+-150.09040,63.31702,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="67" name="Denali Center [67]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-150.09040,63.31702,0.00000
+-150.01263,63.32584,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="68" name="Denali Center [68]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-150.01263,63.32584,0.00000
+-149.95800,63.33200,0.00000
+-149.93522,63.33523,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="69" name="Denali Center [69]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-149.93522,63.33523,0.00000
+-149.85867,63.34605,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="70" name="Denali Center [70]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-149.85867,63.34605,0.00000
+-149.78207,63.35683,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="71" name="Denali Center [71]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-149.78207,63.35683,0.00000
+-149.70541,63.36757,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="72" name="Denali Center [72]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-149.70541,63.36757,0.00000
+-149.68800,63.37000,0.00000
+-149.62710,63.37547,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="73" name="Denali Center [73]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-149.62710,63.37547,0.00000
+-149.54829,63.38250,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="74" name="Denali Center [74]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-149.54829,63.38250,0.00000
+-149.46943,63.38949,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="75" name="Denali Center [75]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-149.46943,63.38949,0.00000
+-149.39054,63.39644,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="76" name="Denali Center [76]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-149.39054,63.39644,0.00000
+-149.32700,63.40200,0.00000
+-149.31180,63.40372,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="77" name="Denali Center [77]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-149.31180,63.40372,0.00000
+-149.23379,63.41250,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="78" name="Denali Center [78]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-149.23379,63.41250,0.00000
+-149.15572,63.42124,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="79" name="Denali Center [79]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-149.15572,63.42124,0.00000
+-149.07761,63.42993,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="80" name="Denali Center [80]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-149.07761,63.42993,0.00000
+-149.07700,63.43000,0.00000
+-148.99883,63.43735,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="81" name="Denali Center [81]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-148.99883,63.43735,0.00000
+-148.91999,63.44472,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="82" name="Denali Center [82]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-148.91999,63.44472,0.00000
+-148.91700,63.44500,0.00000
+-148.84095,63.45166,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="83" name="Denali Center [83]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-148.84095,63.45166,0.00000
+-148.76186,63.45855,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="84" name="Denali Center [84]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-148.76186,63.45855,0.00000
+-148.68273,63.46539,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="85" name="Denali Center [85]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-148.68273,63.46539,0.00000
+-148.66400,63.46700,0.00000
+-148.60247,63.46733,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="86" name="Denali Center [86]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-148.60247,63.46733,0.00000
+-148.52187,63.46773,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="87" name="Denali Center [87]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-148.52187,63.46773,0.00000
+-148.46200,63.46800,0.00000
+-148.44141,63.46914,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="88" name="Denali Center [88]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-148.44141,63.46914,0.00000
+-148.36139,63.47353,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="89" name="Denali Center [89]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-148.36139,63.47353,0.00000
+-148.28135,63.47787,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="90" name="Denali Center [90]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-148.28135,63.47787,0.00000
+-148.20128,63.48217,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="91" name="Denali Center [91]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-148.20128,63.48217,0.00000
+-148.16700,63.48400,0.00000
+-148.12093,63.48508,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="92" name="Denali Center [92]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-148.12093,63.48508,0.00000
+-148.04037,63.48693,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="93" name="Denali Center [93]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-148.04037,63.48693,0.00000
+-147.99300,63.48800,0.00000
+-147.95994,63.48954,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="94" name="Denali Center [94]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-147.95994,63.48954,0.00000
+-147.87969,63.49324,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="95" name="Denali Center [95]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-147.87969,63.49324,0.00000
+-147.79942,63.49689,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="96" name="Denali Center [96]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-147.79942,63.49689,0.00000
+-147.79700,63.49700,0.00000
+-147.71992,63.50305,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="97" name="Denali Center [97]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-147.71992,63.50305,0.00000
+-147.64040,63.50925,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="98" name="Denali Center [98]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-147.64040,63.50925,0.00000
+-147.60500,63.51200,0.00000
+-147.56045,63.51413,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="99" name="Denali Center [99]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-147.56045,63.51413,0.00000
+-147.48016,63.51794,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="100" name="Denali Center [100]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-147.48016,63.51794,0.00000
+-147.39984,63.52171,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="101" name="Denali Center [101]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-147.39984,63.52171,0.00000
+-147.37200,63.52300,0.00000
+-147.31927,63.52399,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="102" name="Denali Center [102]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-147.31927,63.52399,0.00000
+-147.23857,63.52546,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="103" name="Denali Center [103]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-147.23857,63.52546,0.00000
+-147.20800,63.52600,0.00000
+-147.15782,63.52640,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="104" name="Denali Center [104]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-147.15782,63.52640,0.00000
+-147.07900,63.52700,0.00000
+-147.07706,63.52695,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="105" name="Denali Center [105]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-147.07706,63.52695,0.00000
+-146.99645,63.52465,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="106" name="Denali Center [106]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-146.99645,63.52465,0.00000
+-146.97400,63.52400,0.00000
+-146.91658,63.51958,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="107" name="Denali Center [107]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-146.91658,63.51958,0.00000
+-146.83703,63.51340,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="108" name="Denali Center [108]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-146.83703,63.51340,0.00000
+-146.81900,63.51200,0.00000
+-146.75844,63.50523,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="109" name="Denali Center [109]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-146.75844,63.50523,0.00000
+-146.69400,63.49800,0.00000
+-146.67977,63.49762,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="110" name="Denali Center [110]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-146.67977,63.49762,0.00000
+-146.59922,63.49546,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="111" name="Denali Center [111]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-146.59922,63.49546,0.00000
+-146.54600,63.49400,0.00000
+-146.51904,63.49192,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="112" name="Denali Center [112]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-146.51904,63.49192,0.00000
+-146.43956,63.48576,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="113" name="Denali Center [113]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-146.43956,63.48576,0.00000
+-146.41700,63.48400,0.00000
+-146.35944,63.48189,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="114" name="Denali Center [114]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-146.35944,63.48189,0.00000
+-146.27907,63.47892,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="115" name="Denali Center [115]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-146.27907,63.47892,0.00000
+-146.22800,63.47700,0.00000
+-146.20061,63.47224,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="116" name="Denali Center [116]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-146.20061,63.47224,0.00000
+-146.12551,63.45916,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="117" name="Denali Center [117]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-146.12551,63.45916,0.00000
+-146.09600,63.45400,0.00000
+-146.05005,63.44655,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="118" name="Denali Center [118]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-146.05005,63.44655,0.00000
+-145.97438,63.43423,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="119" name="Denali Center [119]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-145.97438,63.43423,0.00000
+-145.92400,63.42600,0.00000
+-145.89950,63.42106,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="120" name="Denali Center [120]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-145.89950,63.42106,0.00000
+-145.82618,63.40624,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="121" name="Denali Center [121]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-145.82618,63.40624,0.00000
+-145.75600,63.39200,0.00000
+-145.75320,63.39116,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="122" name="Denali Center [122]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-145.75320,63.39116,0.00000
+-145.68652,63.37106,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="123" name="Denali Center [123]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-145.68652,63.37106,0.00000
+-145.64000,63.35700,0.00000
+-145.61880,63.35175,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="124" name="Denali Center [124]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-145.61880,63.35175,0.00000
+-145.54855,63.33433,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="125" name="Denali Center [125]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-145.54855,63.33433,0.00000
+-145.51100,63.32500,0.00000
+-145.47566,63.31966,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="126" name="Denali Center [126]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-145.47566,63.31966,0.00000
+-145.39968,63.30816,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="127" name="Denali Center [127]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-145.39968,63.30816,0.00000
+-145.34600,63.30000,0.00000
+-145.32409,63.29621,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="128" name="Denali Center [128]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-145.32409,63.29621,0.00000
+-145.24936,63.28323,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="129" name="Denali Center [129]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-145.24936,63.28323,0.00000
+-145.17469,63.27022,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="130" name="Denali Center [130]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-145.17469,63.27022,0.00000
+-145.16200,63.26800,0.00000
+-145.09882,63.25877,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="131" name="Denali Center [131]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-145.09882,63.25877,0.00000
+-145.02275,63.24761,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="132" name="Denali Center [132]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-145.02275,63.24761,0.00000
+-145.00500,63.24500,0.00000
+-144.94993,63.23287,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="133" name="Denali Center [133]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-144.94993,63.23287,0.00000
+-144.87816,63.21702,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="134" name="Denali Center [134]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-144.87816,63.21702,0.00000
+-144.85100,63.21100,0.00000
+-144.80412,63.20367,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="135" name="Denali Center [135]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-144.80412,63.20367,0.00000
+-144.72870,63.19183,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="136" name="Denali Center [136]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-144.72870,63.19183,0.00000
+-144.69800,63.18700,0.00000
+-144.65772,63.17580,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="137" name="Denali Center [137]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-144.65772,63.17580,0.00000
+-144.58984,63.15688,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="138" name="Denali Center [138]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-144.58984,63.15688,0.00000
+-144.52205,63.13794,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="139" name="Denali Center [139]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-144.52205,63.13794,0.00000
+-144.50800,63.13400,0.00000
+-144.45090,63.12182,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="140" name="Denali Center [140]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-144.45090,63.12182,0.00000
+-144.37893,63.10642,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="141" name="Denali Center [141]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-144.37893,63.10642,0.00000
+-144.36300,63.10300,0.00000
+-144.30763,63.09042,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="142" name="Denali Center [142]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-144.30763,63.09042,0.00000
+-144.23657,63.07424,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="143" name="Denali Center [143]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-144.23657,63.07424,0.00000
+-144.21800,63.07000,0.00000
+-144.16878,63.05551,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="144" name="Denali Center [144]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-144.16878,63.05551,0.00000
+-144.10221,63.03586,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="145" name="Denali Center [145]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-144.10221,63.03586,0.00000
+-144.07900,63.02900,0.00000
+-144.03263,63.01865,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="146" name="Denali Center [146]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-144.03263,63.01865,0.00000
+-143.96147,63.00272,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="147" name="Denali Center [147]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-143.96147,63.00272,0.00000
+-143.93600,62.99700,0.00000
+-143.89286,62.98474,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="148" name="Denali Center [148]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-143.89286,62.98474,0.00000
+-143.82571,62.96562,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="149" name="Denali Center [149]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-143.82571,62.96562,0.00000
+-143.79200,62.95600,0.00000
+-143.75670,62.94804,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="150" name="Denali Center [150]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-143.75670,62.94804,0.00000
+-143.68581,62.93202,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="151" name="Denali Center [151]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-143.68581,62.93202,0.00000
+-143.62400,62.91800,0.00000
+-143.61528,62.91573,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="152" name="Denali Center [152]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-143.61528,62.91573,0.00000
+-143.54667,62.89783,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="153" name="Denali Center [153]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-143.54667,62.89783,0.00000
+-143.49000,62.88300,0.00000
+-143.47923,62.87917,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="154" name="Denali Center [154]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="168.04" lowerDepth="15.0">
+      <Trace>
+-143.47923,62.87917,0.00000
+-143.41700,62.85700,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="155" name="Denali East [155]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-143.41700,62.85700,0.00000
+-143.35159,62.83681,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="156" name="Denali East [156]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-143.35159,62.83681,0.00000
+-143.28628,62.81660,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="157" name="Denali East [157]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-143.28628,62.81660,0.00000
+-143.26500,62.81000,0.00000
+-143.22183,62.79585,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="158" name="Denali East [158]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-143.22183,62.79585,0.00000
+-143.15784,62.77482,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="159" name="Denali East [159]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-143.15784,62.77482,0.00000
+-143.12800,62.76500,0.00000
+-143.09316,62.75428,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="160" name="Denali East [160]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-143.09316,62.75428,0.00000
+-143.02790,62.73415,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="161" name="Denali East [161]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-143.02790,62.73415,0.00000
+-142.96600,62.71500,0.00000
+-142.96264,62.71405,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="162" name="Denali East [162]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-142.96264,62.71405,0.00000
+-142.89577,62.69513,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="163" name="Denali East [163]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-142.89577,62.69513,0.00000
+-142.82898,62.67619,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="164" name="Denali East [164]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-142.82898,62.67619,0.00000
+-142.76227,62.65721,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="165" name="Denali East [165]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-142.76227,62.65721,0.00000
+-142.73700,62.65000,0.00000
+-142.69570,62.63816,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="166" name="Denali East [166]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-142.69570,62.63816,0.00000
+-142.63600,62.62100,0.00000
+-142.62913,62.61914,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="167" name="Denali East [167]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-142.62913,62.61914,0.00000
+-142.56169,62.60081,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="168" name="Denali East [168]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-142.56169,62.60081,0.00000
+-142.50000,62.58400,0.00000
+-142.49474,62.58218,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="169" name="Denali East [169]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-142.49474,62.58218,0.00000
+-142.43229,62.56048,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="170" name="Denali East [170]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-142.43229,62.56048,0.00000
+-142.36993,62.53875,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="171" name="Denali East [171]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-142.36993,62.53875,0.00000
+-142.30767,62.51699,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="172" name="Denali East [172]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-142.30767,62.51699,0.00000
+-142.26200,62.50100,0.00000
+-142.24507,62.49547,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="173" name="Denali East [173]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-142.24507,62.49547,0.00000
+-142.18142,62.47465,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="174" name="Denali East [174]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-142.18142,62.47465,0.00000
+-142.15200,62.46500,0.00000
+-142.11536,62.45562,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="175" name="Denali East [175]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-142.11536,62.45562,0.00000
+-142.04724,62.43815,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="176" name="Denali East [176]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-142.04724,62.43815,0.00000
+-142.00000,62.42600,0.00000
+-141.98174,62.41893,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="177" name="Denali East [177]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-141.98174,62.41893,0.00000
+-141.92209,62.39579,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="178" name="Denali East [178]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-141.92209,62.39579,0.00000
+-141.86254,62.37263,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="179" name="Denali East [179]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-141.86254,62.37263,0.00000
+-141.82500,62.35800,0.00000
+-141.80060,62.35104,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="180" name="Denali East [180]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-141.80060,62.35104,0.00000
+-141.73448,62.33216,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="181" name="Denali East [181]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-141.73448,62.33216,0.00000
+-141.69200,62.32000,0.00000
+-141.66547,62.31635,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="182" name="Denali East [182]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-141.66547,62.31635,0.00000
+-141.59113,62.30609,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="183" name="Denali East [183]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-141.59113,62.30609,0.00000
+-141.54000,62.29900,0.00000
+-141.52019,62.29257,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="184" name="Denali East [184]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-141.52019,62.29257,0.00000
+-141.45669,62.27193,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="185" name="Denali East [185]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-141.45669,62.27193,0.00000
+-141.41700,62.25900,0.00000
+-141.39188,62.25228,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="186" name="Denali East [186]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-141.39188,62.25228,0.00000
+-141.32482,62.23431,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="187" name="Denali East [187]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-141.32482,62.23431,0.00000
+-141.27900,62.22200,0.00000
+-141.25836,62.21590,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="188" name="Denali East [188]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-141.25836,62.21590,0.00000
+-141.19311,62.19659,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="189" name="Denali East [189]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-141.19311,62.19659,0.00000
+-141.18100,62.19300,0.00000
+-141.12401,62.18061,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="190" name="Denali East [190]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-141.12401,62.18061,0.00000
+-141.05407,62.16536,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="191" name="Denali East [191]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-141.05407,62.16536,0.00000
+-141.02500,62.15900,0.00000
+-140.99031,62.14557,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="192" name="Denali East [192]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.99031,62.14557,0.00000
+-140.93099,62.12256,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="193" name="Denali East [193]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.93099,62.12256,0.00000
+-140.87300,62.10000,0.00000
+-140.87166,62.09958,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="194" name="Denali East [194]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.87166,62.09958,0.00000
+-140.80754,62.07964,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="195" name="Denali East [195]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.80754,62.07964,0.00000
+-140.74351,62.05967,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="196" name="Denali East [196]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.74351,62.05967,0.00000
+-140.68700,62.04200,0.00000
+-140.68031,62.03922,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="197" name="Denali East [197]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.68031,62.03922,0.00000
+-140.62288,62.01528,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="198" name="Denali East [198]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.62288,62.01528,0.00000
+-140.56554,61.99133,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="199" name="Denali East [199]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.56554,61.99133,0.00000
+-140.51700,61.97100,0.00000
+-140.50791,61.96756,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="200" name="Denali East [200]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.50791,61.96756,0.00000
+-140.44824,61.94494,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="201" name="Denali East [201]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.44824,61.94494,0.00000
+-140.40100,61.92700,0.00000
+-140.38950,61.92185,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="202" name="Denali East [202]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.38950,61.92185,0.00000
+-140.33411,61.89699,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="203" name="Denali East [203]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.33411,61.89699,0.00000
+-140.27880,61.87211,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="204" name="Denali East [204]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.27880,61.87211,0.00000
+-140.23200,61.85100,0.00000
+-140.22322,61.84739,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="205" name="Denali East [205]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.22322,61.84739,0.00000
+-140.16572,61.82369,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="206" name="Denali East [206]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.16572,61.82369,0.00000
+-140.13500,61.81100,0.00000
+-140.11013,61.79905,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="207" name="Denali East [207]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.11013,61.79905,0.00000
+-140.05672,61.77334,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="208" name="Denali East [208]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-140.05672,61.77334,0.00000
+-140.05600,61.77300,0.00000
+-139.99959,61.74952,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="209" name="Denali East [209]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.99959,61.74952,0.00000
+-139.96000,61.73300,0.00000
+-139.94369,61.72510,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="210" name="Denali East [210]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.94369,61.72510,0.00000
+-139.89056,61.69932,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="211" name="Denali East [211]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.89056,61.69932,0.00000
+-139.85700,61.68300,0.00000
+-139.83511,61.67479,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="212" name="Denali East [212]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.83511,61.67479,0.00000
+-139.77557,61.65244,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="213" name="Denali East [213]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.77557,61.65244,0.00000
+-139.71611,61.63006,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="214" name="Denali East [214]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.71611,61.63006,0.00000
+-139.70800,61.62700,0.00000
+-139.65680,61.60762,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="215" name="Denali East [215]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.65680,61.60762,0.00000
+-139.59758,61.58515,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="216" name="Denali East [216]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.59758,61.58515,0.00000
+-139.56300,61.57200,0.00000
+-139.54087,61.56137,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="217" name="Denali East [217]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.54087,61.56137,0.00000
+-139.48765,61.53576,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="218" name="Denali East [218]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.48765,61.53576,0.00000
+-139.43452,61.51014,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="219" name="Denali East [219]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.43452,61.51014,0.00000
+-139.39700,61.49200,0.00000
+-139.38181,61.48434,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="220" name="Denali East [220]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.38181,61.48434,0.00000
+-139.32997,61.45816,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="221" name="Denali East [221]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.32997,61.45816,0.00000
+-139.27822,61.43196,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="222" name="Denali East [222]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.27822,61.43196,0.00000
+-139.23100,61.40800,0.00000
+-139.22607,61.40598,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="223" name="Denali East [223]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.22607,61.40598,0.00000
+-139.16892,61.38253,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="224" name="Denali East [224]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.16892,61.38253,0.00000
+-139.11186,61.35906,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="225" name="Denali East [225]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.11186,61.35906,0.00000
+-139.10200,61.35500,0.00000
+-139.05897,61.33350,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="226" name="Denali East [226]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.05897,61.33350,0.00000
+-139.02200,61.31500,0.00000
+-139.00456,61.30883,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="227" name="Denali East [227]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-139.00456,61.30883,0.00000
+-138.94419,61.28743,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="228" name="Denali East [228]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.94419,61.28743,0.00000
+-138.91200,61.27600,0.00000
+-138.88988,61.26299,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="229" name="Denali East [229]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.88988,61.26299,0.00000
+-138.84249,61.23508,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="230" name="Denali East [230]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.84249,61.23508,0.00000
+-138.80000,61.21000,0.00000
+-138.79435,61.20754,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="231" name="Denali East [231]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.79435,61.20754,0.00000
+-138.73889,61.18337,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="232" name="Denali East [232]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.73889,61.18337,0.00000
+-138.68352,61.15917,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="233" name="Denali East [233]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.68352,61.15917,0.00000
+-138.67400,61.15500,0.00000
+-138.63015,61.13397,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="234" name="Denali East [234]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.63015,61.13397,0.00000
+-138.57727,61.10856,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="235" name="Denali East [235]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.57727,61.10856,0.00000
+-138.52447,61.08312,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="236" name="Denali East [236]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.52447,61.08312,0.00000
+-138.51800,61.08000,0.00000
+-138.47440,61.05645,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="237" name="Denali East [237]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.47440,61.05645,0.00000
+-138.42479,61.02959,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="238" name="Denali East [238]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.42479,61.02959,0.00000
+-138.38500,61.00800,0.00000
+-138.37412,61.00326,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="239" name="Denali East [239]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.37412,61.00326,0.00000
+-138.31886,60.97917,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="240" name="Denali East [240]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.31886,60.97917,0.00000
+-138.26369,60.95505,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="241" name="Denali East [241]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.26369,60.95505,0.00000
+-138.25900,60.95300,0.00000
+-138.20982,60.93028,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="242" name="Denali East [242]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.20982,60.93028,0.00000
+-138.15614,60.90543,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="243" name="Denali East [243]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.15614,60.90543,0.00000
+-138.10255,60.88055,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="244" name="Denali East [244]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.10255,60.88055,0.00000
+-138.08200,60.87100,0.00000
+-138.05690,60.85246,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="245" name="Denali East [245]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.05690,60.85246,0.00000
+-138.01622,60.82237,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="246" name="Denali East [246]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-138.01622,60.82237,0.00000
+-137.98200,60.79700,0.00000
+-137.97527,60.79238,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="247" name="Denali East [247]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.97527,60.79238,0.00000
+-137.93251,60.76301,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="248" name="Denali East [248]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.93251,60.76301,0.00000
+-137.88982,60.73363,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="249" name="Denali East [249]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.88982,60.73363,0.00000
+-137.88600,60.73100,0.00000
+-137.85558,60.70176,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="250" name="Denali East [250]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.85558,60.70176,0.00000
+-137.82224,60.66964,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="251" name="Denali East [251]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.82224,60.66964,0.00000
+-137.80500,60.65300,0.00000
+-137.79009,60.63724,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="252" name="Denali East [252]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.79009,60.63724,0.00000
+-137.75920,60.60455,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="253" name="Denali East [253]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.75920,60.60455,0.00000
+-137.72838,60.57184,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="254" name="Denali East [254]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.72838,60.57184,0.00000
+-137.72100,60.56400,0.00000
+-137.68758,60.54209,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="255" name="Denali East [255]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.68758,60.54209,0.00000
+-137.64368,60.51324,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="256" name="Denali East [256]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.64368,60.51324,0.00000
+-137.61900,60.49700,0.00000
+-137.59494,60.48662,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="257" name="Denali East [257]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.59494,60.48662,0.00000
+-137.53996,60.46287,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="258" name="Denali East [258]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.53996,60.46287,0.00000
+-137.50100,60.44600,0.00000
+-137.48714,60.43808,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="259" name="Denali East [259]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.48714,60.43808,0.00000
+-137.43948,60.41078,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="260" name="Denali East [260]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.43948,60.41078,0.00000
+-137.39190,60.38347,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="261" name="Denali East [261]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.39190,60.38347,0.00000
+-137.36500,60.36800,0.00000
+-137.34650,60.35532,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="262" name="Denali East [262]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.34650,60.35532,0.00000
+-137.30391,60.32609,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="263" name="Denali East [263]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.30391,60.32609,0.00000
+-137.26140,60.29685,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="264" name="Denali East [264]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.26140,60.29685,0.00000
+-137.25000,60.28900,0.00000
+-137.21814,60.26790,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="265" name="Denali East [265]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.21814,60.26790,0.00000
+-137.17465,60.23904,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="266" name="Denali East [266]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.17465,60.23904,0.00000
+-137.13125,60.21016,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="267" name="Denali East [267]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.13125,60.21016,0.00000
+-137.12800,60.20800,0.00000
+-137.09688,60.17847,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="268" name="Denali East [268]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.09688,60.17847,0.00000
+-137.06331,60.14654,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="269" name="Denali East [269]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.06331,60.14654,0.00000
+-137.04700,60.13100,0.00000
+-137.02711,60.11538,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="270" name="Denali East [270]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-137.02711,60.11538,0.00000
+-136.98844,60.08494,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="271" name="Denali East [271]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.98844,60.08494,0.00000
+-136.94983,60.05448,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="272" name="Denali East [272]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.94983,60.05448,0.00000
+-136.91129,60.02402,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="273" name="Denali East [273]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.91129,60.02402,0.00000
+-136.91000,60.02300,0.00000
+-136.87042,59.99434,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="274" name="Denali East [274]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.87042,59.99434,0.00000
+-136.82954,59.96467,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="275" name="Denali East [275]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.82954,59.96467,0.00000
+-136.78874,59.93499,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="276" name="Denali East [276]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.78874,59.93499,0.00000
+-136.78600,59.93300,0.00000
+-136.74478,59.90648,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="277" name="Denali East [277]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.74478,59.90648,0.00000
+-136.70067,59.87804,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="278" name="Denali East [278]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.70067,59.87804,0.00000
+-136.66500,59.85500,0.00000
+-136.65562,59.85003,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="279" name="Denali East [279]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.65562,59.85003,0.00000
+-136.60630,59.82387,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="280" name="Denali East [280]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.60630,59.82387,0.00000
+-136.55707,59.79768,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="281" name="Denali East [281]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.55707,59.79768,0.00000
+-136.52200,59.77900,0.00000
+-136.50777,59.77155,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="282" name="Denali East [282]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.50777,59.77155,0.00000
+-136.45819,59.74557,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="283" name="Denali East [283]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.45819,59.74557,0.00000
+-136.40870,59.71957,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="284" name="Denali East [284]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.40870,59.71957,0.00000
+-136.40000,59.71500,0.00000
+-136.36327,59.69179,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="285" name="Denali East [285]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.36327,59.69179,0.00000
+-136.31878,59.66362,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="286" name="Denali East [286]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.31878,59.66362,0.00000
+-136.29100,59.64600,0.00000
+-136.27404,59.63556,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="287" name="Denali East [287]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.27404,59.63556,0.00000
+-136.22887,59.60769,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="288" name="Denali East [288]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.22887,59.60769,0.00000
+-136.18377,59.57981,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="289" name="Denali East [289]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.18377,59.57981,0.00000
+-136.13875,59.55191,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="290" name="Denali East [290]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.13875,59.55191,0.00000
+-136.12600,59.54400,0.00000
+-136.09426,59.52381,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="291" name="Denali East [291]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.09426,59.52381,0.00000
+-136.05002,59.49562,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="292" name="Denali East [292]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.05002,59.49562,0.00000
+-136.00585,59.46742,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="293" name="Denali East [293]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-136.00585,59.46742,0.00000
+-135.98800,59.45600,0.00000
+-135.96159,59.43927,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="294" name="Denali East [294]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.96159,59.43927,0.00000
+-135.91727,59.41116,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="295" name="Denali East [295]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.91727,59.41116,0.00000
+-135.90600,59.40400,0.00000
+-135.87336,59.38290,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="296" name="Denali East [296]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.87336,59.38290,0.00000
+-135.82964,59.35458,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="297" name="Denali East [297]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.82964,59.35458,0.00000
+-135.78599,59.32624,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="298" name="Denali East [298]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.78599,59.32624,0.00000
+-135.78100,59.32300,0.00000
+-135.73789,59.29988,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="299" name="Denali East [299]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.73789,59.29988,0.00000
+-135.68929,59.27376,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="300" name="Denali East [300]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.68929,59.27376,0.00000
+-135.67300,59.26500,0.00000
+-135.63526,59.25081,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="301" name="Denali East [301]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.63526,59.25081,0.00000
+-135.57853,59.22945,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="302" name="Denali East [302]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.57853,59.22945,0.00000
+-135.52187,59.20805,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="303" name="Denali East [303]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.52187,59.20805,0.00000
+-135.49000,59.19600,0.00000
+-135.46924,59.18438,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="304" name="Denali East [304]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.46924,59.18438,0.00000
+-135.44000,59.16800,0.00000
+-135.42342,59.15709,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="305" name="Denali East [305]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.42342,59.15709,0.00000
+-135.39900,59.14100,0.00000
+-135.38267,59.12778,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="306" name="Denali East [306]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.38267,59.12778,0.00000
+-135.37800,59.12400,0.00000
+-135.34959,59.09602,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="307" name="Denali East [307]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.34959,59.09602,0.00000
+-135.31720,59.06406,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="308" name="Denali East [308]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.31720,59.06406,0.00000
+-135.30500,59.05200,0.00000
+-135.29413,59.03027,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="309" name="Denali East [309]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.29413,59.03027,0.00000
+-135.29400,59.03000,0.00000
+-135.27902,58.99508,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="310" name="Denali East [310]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.27902,58.99508,0.00000
+-135.26700,58.96700,0.00000
+-135.26420,58.95987,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="311" name="Denali East [311]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.26420,58.95987,0.00000
+-135.25035,58.92455,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="312" name="Denali East [312]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.25035,58.92455,0.00000
+-135.24700,58.91600,0.00000
+-135.23179,58.88985,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="313" name="Denali East [313]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.23179,58.88985,0.00000
+-135.22200,58.87300,0.00000
+-135.21231,58.85525,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="314" name="Denali East [314]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.21231,58.85525,0.00000
+-135.19800,58.82900,0.00000
+-135.19598,58.82030,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="315" name="Denali East [315]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.19598,58.82030,0.00000
+-135.18800,58.78600,0.00000
+-135.18725,58.78457,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="316" name="Denali East [316]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.18725,58.78457,0.00000
+-135.16903,58.74980,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="317" name="Denali East [317]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.16903,58.74980,0.00000
+-135.16600,58.74400,0.00000
+-135.15673,58.71436,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="318" name="Denali East [318]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.15673,58.71436,0.00000
+-135.15100,58.69600,0.00000
+-135.14527,58.67882,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="319" name="Denali East [319]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.14527,58.67882,0.00000
+-135.13344,58.64332,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="320" name="Denali East [320]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.13344,58.64332,0.00000
+-135.13300,58.64200,0.00000
+-135.11474,58.60863,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="321" name="Denali East [321]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.11474,58.60863,0.00000
+-135.09800,58.57800,0.00000
+-135.09650,58.57389,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="322" name="Denali East [322]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.09650,58.57389,0.00000
+-135.08356,58.53850,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="323" name="Denali East [323]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.08356,58.53850,0.00000
+-135.07900,58.52600,0.00000
+-135.06751,58.50347,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="324" name="Denali East [324]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.06751,58.50347,0.00000
+-135.05300,58.47500,0.00000
+-135.05096,58.46852,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="325" name="Denali East [325]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.05096,58.46852,0.00000
+-135.03976,58.43297,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="326" name="Denali East [326]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.03976,58.43297,0.00000
+-135.03600,58.42100,0.00000
+-135.03455,58.39710,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="327" name="Denali East [327]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.03455,58.39710,0.00000
+-135.03400,58.38800,0.00000
+-135.02299,58.36170,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="328" name="Denali East [328]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.02299,58.36170,0.00000
+-135.01100,58.33300,0.00000
+-135.00849,58.32648,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="329" name="Denali East [329]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-135.00849,58.32648,0.00000
+-134.99600,58.29400,0.00000
+-134.99525,58.29113,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="330" name="Denali East [330]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.99525,58.29113,0.00000
+-134.98594,58.25543,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="331" name="Denali East [331]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.98594,58.25543,0.00000
+-134.98400,58.24800,0.00000
+-134.97871,58.21960,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="332" name="Denali East [332]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.97871,58.21960,0.00000
+-134.97600,58.20500,0.00000
+-134.97119,58.18379,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="333" name="Denali East [333]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.97119,58.18379,0.00000
+-134.96400,58.15200,0.00000
+-134.96160,58.14819,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="334" name="Denali East [334]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.96160,58.14819,0.00000
+-134.94200,58.11700,0.00000
+-134.94056,58.11392,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="335" name="Denali East [335]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.94056,58.11392,0.00000
+-134.92418,58.07894,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="336" name="Denali East [336]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.92418,58.07894,0.00000
+-134.92000,58.07000,0.00000
+-134.90963,58.04374,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="337" name="Denali East [337]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.90963,58.04374,0.00000
+-134.90500,58.03200,0.00000
+-134.89446,58.00862,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="338" name="Denali East [338]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.89446,58.00862,0.00000
+-134.87868,57.97357,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="339" name="Denali East [339]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.87868,57.97357,0.00000
+-134.86293,57.93852,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="340" name="Denali East [340]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.86293,57.93852,0.00000
+-134.86000,57.93200,0.00000
+-134.85489,57.90280,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="341" name="Denali East [341]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.85489,57.90280,0.00000
+-134.85300,57.89200,0.00000
+-134.85300,57.86681,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="342" name="Denali East [342]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.85300,57.86681,0.00000
+-134.85300,57.84200,0.00000
+-134.84931,57.83095,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="343" name="Denali East [343]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.84931,57.83095,0.00000
+-134.84200,57.80900,0.00000
+-134.84119,57.79526,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="344" name="Denali East [344]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.84119,57.79526,0.00000
+-134.83907,57.75925,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="345" name="Denali East [345]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.83907,57.75925,0.00000
+-134.83900,57.75800,0.00000
+-134.83208,57.72341,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="346" name="Denali East [346]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.83208,57.72341,0.00000
+-134.83000,57.71300,0.00000
+-134.82305,57.68771,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="347" name="Denali East [347]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.82305,57.68771,0.00000
+-134.81600,57.66200,0.00000
+-134.81351,57.65204,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="348" name="Denali East [348]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.81351,57.65204,0.00000
+-134.80900,57.63400,0.00000
+-134.80333,57.61643,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="349" name="Denali East [349]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.80333,57.61643,0.00000
+-134.79190,57.58092,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="350" name="Denali East [350]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.79190,57.58092,0.00000
+-134.79000,57.57500,0.00000
+-134.78294,57.54521,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="351" name="Denali East [351]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.78294,57.54521,0.00000
+-134.78100,57.53700,0.00000
+-134.77639,57.50935,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="352" name="Denali East [352]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.77639,57.50935,0.00000
+-134.77200,57.48300,0.00000
+-134.76768,57.47371,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="353" name="Denali East [353]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.76768,57.47371,0.00000
+-134.75200,57.44000,0.00000
+-134.75158,57.43874,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="354" name="Denali East [354]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.75158,57.43874,0.00000
+-134.73976,57.40327,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="355" name="Denali East [355]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.73976,57.40327,0.00000
+-134.73900,57.40100,0.00000
+-134.73271,57.36744,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="356" name="Denali East [356]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.73271,57.36744,0.00000
+-134.73000,57.35300,0.00000
+-134.73000,57.33148,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="357" name="Denali East [357]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.73000,57.33148,0.00000
+-134.73000,57.30400,0.00000
+-134.73016,57.29545,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="358" name="Denali East [358]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.73016,57.29545,0.00000
+-134.73081,57.25942,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="359" name="Denali East [359]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.73081,57.25942,0.00000
+-134.73100,57.24900,0.00000
+-134.73290,57.22341,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="360" name="Denali East [360]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.73290,57.22341,0.00000
+-134.73500,57.19500,0.00000
+-134.73304,57.18747,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="361" name="Denali East [361]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.73304,57.18747,0.00000
+-134.72374,57.15179,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="362" name="Denali East [362]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.72374,57.15179,0.00000
+-134.71600,57.12200,0.00000
+-134.71532,57.11606,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="363" name="Denali East [363]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.71532,57.11606,0.00000
+-134.71124,57.08010,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="364" name="Denali East [364]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.71124,57.08010,0.00000
+-134.71100,57.07800,0.00000
+-134.70342,57.04432,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="365" name="Denali East [365]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.70342,57.04432,0.00000
+-134.70200,57.03800,0.00000
+-134.69878,57.00839,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="366" name="Denali East [366]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.69878,57.00839,0.00000
+-134.69700,56.99200,0.00000
+-134.69070,56.97268,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="367" name="Denali East [367]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.69070,56.97268,0.00000
+-134.68200,56.94600,0.00000
+-134.67913,56.93721,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="368" name="Denali East [368]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.67913,56.93721,0.00000
+-134.66754,56.90173,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="369" name="Denali East [369]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.66754,56.90173,0.00000
+-134.66600,56.89700,0.00000
+-134.65486,56.86637,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="370" name="Denali East [370]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.65486,56.86637,0.00000
+-134.65000,56.85300,0.00000
+-134.63919,56.83140,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="371" name="Denali East [371]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.63919,56.83140,0.00000
+-134.63200,56.81700,0.00000
+-134.63021,56.79591,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="372" name="Denali East [372]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.63021,56.79591,0.00000
+-134.62716,56.75992,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="373" name="Denali East [373]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.62716,56.75992,0.00000
+-134.62700,56.75800,0.00000
+-134.61402,56.72464,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="374" name="Denali East [374]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.61402,56.72464,0.00000
+-134.61300,56.72200,0.00000
+-134.59840,56.68964,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="375" name="Denali East [375]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.59840,56.68964,0.00000
+-134.59000,56.67100,0.00000
+-134.58410,56.65449,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="376" name="Denali East [376]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.58410,56.65449,0.00000
+-134.57500,56.62900,0.00000
+-134.57219,56.61906,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="377" name="Denali East [377]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.57219,56.61906,0.00000
+-134.56213,56.58345,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="378" name="Denali East [378]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.56213,56.58345,0.00000
+-134.56200,56.58300,0.00000
+-134.55400,56.55000,0.00000
+-134.55385,56.54772,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="379" name="Denali East [379]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.55385,56.54772,0.00000
+-134.55156,56.51171,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="380" name="Denali East [380]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.55156,56.51171,0.00000
+-134.55100,56.50300,0.00000
+-134.54358,56.47599,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="381" name="Denali East [381]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.54358,56.47599,0.00000
+-134.53700,56.45200,0.00000
+-134.53787,56.44024,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="382" name="Denali East [382]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.53787,56.44024,0.00000
+-134.54054,56.40423,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="383" name="Denali East [383]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.54054,56.40423,0.00000
+-134.54100,56.39800,0.00000
+-134.55215,56.36885,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="384" name="Denali East [384]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.55215,56.36885,0.00000
+-134.55400,56.36400,0.00000
+-134.54972,56.33302,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="385" name="Denali East [385]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.54972,56.33302,0.00000
+-134.54600,56.30600,0.00000
+-134.54626,56.29706,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="386" name="Denali East [386]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.54626,56.29706,0.00000
+-134.54700,56.27100,0.00000
+-134.54599,56.26105,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="387" name="Denali East [387]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.54599,56.26105,0.00000
+-134.54233,56.22507,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="388" name="Denali East [388]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.54233,56.22507,0.00000
+-134.54100,56.21200,0.00000
+-134.54148,56.18906,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="389" name="Denali East [389]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.54148,56.18906,0.00000
+-134.54224,56.15303,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="390" name="Denali East [390]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="232.338" lowerDepth="15.0">
+      <Trace>
+-134.54224,56.15303,0.00000
+-134.54300,56.11700,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="391" name="Totschunda [391]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-143.41700,62.85700,0.00000
+-143.38014,62.82506,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="392" name="Totschunda [392]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-143.38014,62.82506,0.00000
+-143.34335,62.79310,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="393" name="Totschunda [393]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-143.34335,62.79310,0.00000
+-143.32600,62.77800,0.00000
+-143.30541,62.76145,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="394" name="Totschunda [394]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-143.30541,62.76145,0.00000
+-143.28000,62.74100,0.00000
+-143.26274,62.73122,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="395" name="Totschunda [395]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-143.26274,62.73122,0.00000
+-143.21324,62.70314,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="396" name="Totschunda [396]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-143.21324,62.70314,0.00000
+-143.21300,62.70300,0.00000
+-143.16131,62.67601,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="397" name="Totschunda [397]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-143.16131,62.67601,0.00000
+-143.10947,62.64887,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="398" name="Totschunda [398]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-143.10947,62.64887,0.00000
+-143.10400,62.64600,0.00000
+-143.04945,62.62565,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="399" name="Totschunda [399]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-143.04945,62.62565,0.00000
+-143.03700,62.62100,0.00000
+-142.99675,62.59903,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="400" name="Totschunda [400]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.99675,62.59903,0.00000
+-142.95100,62.57400,0.00000
+-142.94618,62.57144,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="401" name="Totschunda [401]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.94618,62.57144,0.00000
+-142.89485,62.54416,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="402" name="Totschunda [402]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.89485,62.54416,0.00000
+-142.87200,62.53200,0.00000
+-142.84065,62.51817,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="403" name="Totschunda [403]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.84065,62.51817,0.00000
+-142.79500,62.49800,0.00000
+-142.78791,62.49189,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="404" name="Totschunda [404]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.78791,62.49189,0.00000
+-142.76600,62.47300,0.00000
+-142.74790,62.46094,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="405" name="Totschunda [405]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.74790,62.46094,0.00000
+-142.71500,62.43900,0.00000
+-142.70570,62.43064,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="406" name="Totschunda [406]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.70570,62.43064,0.00000
+-142.67500,62.40300,0.00000
+-142.67081,62.39837,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="407" name="Totschunda [407]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.67081,62.39837,0.00000
+-142.64070,62.36507,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="408" name="Totschunda [408]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.64070,62.36507,0.00000
+-142.62800,62.35100,0.00000
+-142.60466,62.33319,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="409" name="Totschunda [409]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.60466,62.33319,0.00000
+-142.56431,62.30233,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="410" name="Totschunda [410]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.56431,62.30233,0.00000
+-142.54300,62.28600,0.00000
+-142.52555,62.27106,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="411" name="Totschunda [411]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.52555,62.27106,0.00000
+-142.49400,62.24400,0.00000
+-142.48601,62.24020,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="412" name="Totschunda [412]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.48601,62.24020,0.00000
+-142.43184,62.21438,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="413" name="Totschunda [413]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.43184,62.21438,0.00000
+-142.40800,62.20300,0.00000
+-142.38795,62.18510,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="414" name="Totschunda [414]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.38795,62.18510,0.00000
+-142.36100,62.16100,0.00000
+-142.35257,62.15300,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="415" name="Totschunda [415]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.35257,62.15300,0.00000
+-142.31846,62.12061,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="416" name="Totschunda [416]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.31846,62.12061,0.00000
+-142.30100,62.10400,0.00000
+-142.28252,62.08867,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="417" name="Totschunda [417]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.28252,62.08867,0.00000
+-142.24468,62.05722,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="418" name="Totschunda [418]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.24468,62.05722,0.00000
+-142.22400,62.04000,0.00000
+-142.20392,62.02664,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="419" name="Totschunda [419]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.20392,62.02664,0.00000
+-142.15963,61.99712,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="420" name="Totschunda [420]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.15963,61.99712,0.00000
+-142.13700,61.98200,0.00000
+-142.11573,61.96748,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="421" name="Totschunda [421]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.11573,61.96748,0.00000
+-142.07224,61.93773,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="422" name="Totschunda [422]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.07224,61.93773,0.00000
+-142.04200,61.91700,0.00000
+-142.02929,61.90781,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="423" name="Totschunda [423]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-142.02929,61.90781,0.00000
+-141.98749,61.87755,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="424" name="Totschunda [424]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.98749,61.87755,0.00000
+-141.94576,61.84728,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="425" name="Totschunda [425]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.94576,61.84728,0.00000
+-141.94400,61.84600,0.00000
+-141.90035,61.81823,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="426" name="Totschunda [426]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.90035,61.81823,0.00000
+-141.88900,61.81100,0.00000
+-141.85602,61.78883,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="427" name="Totschunda [427]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.85602,61.78883,0.00000
+-141.83400,61.77400,0.00000
+-141.80472,61.76252,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="428" name="Totschunda [428]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.80472,61.76252,0.00000
+-141.75500,61.74300,0.00000
+-141.74814,61.73853,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="429" name="Totschunda [429]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.74814,61.73853,0.00000
+-141.70600,61.71100,0.00000
+-141.70373,61.70920,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="430" name="Totschunda [430]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.70373,61.70920,0.00000
+-141.66700,61.68000,0.00000
+-141.66377,61.67855,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="431" name="Totschunda [431]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.66377,61.67855,0.00000
+-141.60857,61.65371,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="432" name="Totschunda [432]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.60857,61.65371,0.00000
+-141.60700,61.65300,0.00000
+-141.56200,61.63300,0.00000
+-141.55340,61.62888,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="433" name="Totschunda [433]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.55340,61.62888,0.00000
+-141.49998,61.60321,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="434" name="Totschunda [434]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.49998,61.60321,0.00000
+-141.48500,61.59600,0.00000
+-141.44760,61.57709,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="435" name="Totschunda [435]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.44760,61.57709,0.00000
+-141.40400,61.55500,0.00000
+-141.39488,61.55117,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="436" name="Totschunda [436]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.39488,61.55117,0.00000
+-141.33806,61.52729,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="437" name="Totschunda [437]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.33806,61.52729,0.00000
+-141.33500,61.52600,0.00000
+-141.27687,61.50605,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="438" name="Totschunda [438]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.27687,61.50605,0.00000
+-141.26800,61.50300,0.00000
+-141.21186,61.48762,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="439" name="Totschunda [439]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.21186,61.48762,0.00000
+-141.19500,61.48300,0.00000
+-141.14096,61.47567,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="440" name="Totschunda [440]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.14096,61.47567,0.00000
+-141.13600,61.47500,0.00000
+-141.06560,61.47374,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="441" name="Totschunda [441]">
+    <Geometry aseis="0.0" depth="0.0" dip="90.0" dipDir="229.893" lowerDepth="15.0">
+      <Trace>
+-141.06560,61.47374,0.00000
+-141.02500,61.47300,0.00000
+-140.99700,61.46300,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+</SystemFaultSections>

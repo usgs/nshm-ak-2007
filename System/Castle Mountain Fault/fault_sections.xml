@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SystemFaultSections name="Castle Mountain Fault">
+  <!-- This model is an example and for review purposes only -->
+  <!-- Reference: AKF2.out_revF.in, AKF3.out_revF.in -->
+  <Section index="0" name="Castle Mountain [0]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-147.72600,61.81500,0.00000
+-147.80238,61.81828,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="1" name="Castle Mountain [1]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-147.80238,61.81828,0.00000
+-147.84300,61.82000,0.00000
+-147.87758,61.82458,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="2" name="Castle Mountain [2]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-147.87758,61.82458,0.00000
+-147.91100,61.82900,0.00000
+-147.95277,61.83115,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="3" name="Castle Mountain [3]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-147.95277,61.83115,0.00000
+-147.98900,61.83300,0.00000
+-148.02767,61.83834,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="4" name="Castle Mountain [4]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-148.02767,61.83834,0.00000
+-148.07600,61.84500,0.00000
+-148.10167,61.84793,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="5" name="Castle Mountain [5]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-148.10167,61.84793,0.00000
+-148.15500,61.85400,0.00000
+-148.17608,61.85682,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="6" name="Castle Mountain [6]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-148.17608,61.85682,0.00000
+-148.24999,61.86667,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="7" name="Castle Mountain [7]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-148.24999,61.86667,0.00000
+-148.26000,61.86800,0.00000
+-148.32498,61.87451,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="8" name="Castle Mountain [8]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-148.32498,61.87451,0.00000
+-148.36000,61.87800,0.00000
+-148.39993,61.87351,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="9" name="Castle Mountain [9]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-148.39993,61.87351,0.00000
+-148.44000,61.86900,0.00000
+-148.47247,61.86210,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="10" name="Castle Mountain [10]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-148.47247,61.86210,0.00000
+-148.54244,61.84718,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="11" name="Castle Mountain [11]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-148.54244,61.84718,0.00000
+-148.56200,61.84300,0.00000
+-148.61471,61.83513,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="12" name="Castle Mountain [12]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-148.61471,61.83513,0.00000
+-148.68783,61.82417,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="13" name="Castle Mountain [13]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-148.68783,61.82417,0.00000
+-148.68900,61.82400,0.00000
+-148.75722,61.80876,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="14" name="Castle Mountain [14]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-148.75722,61.80876,0.00000
+-148.82648,61.79324,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="15" name="Castle Mountain [15]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-148.82648,61.79324,0.00000
+-148.83200,61.79200,0.00000
+-148.89791,61.78016,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="16" name="Castle Mountain [16]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-148.89791,61.78016,0.00000
+-148.96947,61.76726,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="17" name="Castle Mountain [17]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-148.96947,61.76726,0.00000
+-148.98200,61.76500,0.00000
+-149.03624,61.74971,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="18" name="Castle Mountain [18]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-149.03624,61.74971,0.00000
+-149.10192,61.73114,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="19" name="Castle Mountain [19]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-149.10192,61.73114,0.00000
+-149.11300,61.72800,0.00000
+-149.17320,61.71835,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="20" name="Castle Mountain [20]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-149.17320,61.71835,0.00000
+-149.24558,61.70671,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="21" name="Castle Mountain [21]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-149.24558,61.70671,0.00000
+-149.25000,61.70600,0.00000
+-149.31747,61.69446,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="22" name="Castle Mountain [22]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-149.31747,61.69446,0.00000
+-149.38928,61.68212,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="23" name="Castle Mountain [23]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-149.38928,61.68212,0.00000
+-149.39000,61.68200,0.00000
+-149.46137,61.67021,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="24" name="Castle Mountain [24]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-149.46137,61.67021,0.00000
+-149.53341,61.65826,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="25" name="Castle Mountain [25]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-149.53341,61.65826,0.00000
+-149.55300,61.65500,0.00000
+-149.60536,61.64622,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="26" name="Castle Mountain [26]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-149.60536,61.64622,0.00000
+-149.67724,61.63413,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="27" name="Castle Mountain [27]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-149.67724,61.63413,0.00000
+-149.67800,61.63400,0.00000
+-149.74985,61.62312,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="28" name="Castle Mountain [28]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-149.74985,61.62312,0.00000
+-149.77700,61.61900,0.00000
+-149.82269,61.61249,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="29" name="Castle Mountain [29]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-149.82269,61.61249,0.00000
+-149.89563,61.60205,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="30" name="Castle Mountain [30]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-149.89563,61.60205,0.00000
+-149.89600,61.60200,0.00000
+-149.96766,61.59030,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="31" name="Castle Mountain [31]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-149.96766,61.59030,0.00000
+-150.00000,61.58500,0.00000
+-150.03921,61.57796,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="32" name="Castle Mountain [32]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-150.03921,61.57796,0.00000
+-150.08900,61.56900,0.00000
+-150.11058,61.56541,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="33" name="Castle Mountain [33]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-150.11058,61.56541,0.00000
+-150.18236,61.55344,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="34" name="Castle Mountain [34]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-150.18236,61.55344,0.00000
+-150.19100,61.55200,0.00000
+-150.24925,61.53636,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="35" name="Castle Mountain [35]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-150.24925,61.53636,0.00000
+-150.31000,61.52000,0.00000
+-150.31527,61.51844,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="36" name="Castle Mountain [36]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-150.31527,61.51844,0.00000
+-150.37978,61.49933,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="37" name="Castle Mountain [37]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-150.37978,61.49933,0.00000
+-150.39100,61.49600,0.00000
+-150.44431,61.48028,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="38" name="Castle Mountain [38]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-150.44431,61.48028,0.00000
+-150.50879,61.46121,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="39" name="Castle Mountain [39]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-150.50879,61.46121,0.00000
+-150.52300,61.45700,0.00000
+-150.57676,61.44530,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="40" name="Castle Mountain [40]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-150.57676,61.44530,0.00000
+-150.62400,61.43500,0.00000
+-150.64463,61.42929,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="41" name="Castle Mountain [41]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-150.64463,61.42929,0.00000
+-150.70700,61.41200,0.00000
+-150.71026,61.41123,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="42" name="Castle Mountain [42]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-150.71026,61.41123,0.00000
+-150.77811,61.39520,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="43" name="Castle Mountain [43]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-150.77811,61.39520,0.00000
+-150.83800,61.38100,0.00000
+-150.84646,61.37982,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="44" name="Castle Mountain [44]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-150.84646,61.37982,0.00000
+-150.91905,61.36970,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="45" name="Castle Mountain [45]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-150.91905,61.36970,0.00000
+-150.97400,61.36200,0.00000
+-150.98690,61.35576,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+  <Section index="46" name="Castle Mountain [46]">
+    <Geometry aseis="0.0" depth="0.0" dip="75.0" dipDir="344.373" lowerDepth="15.0">
+      <Trace>
+-150.98690,61.35576,0.00000
+-151.04000,61.33000,0.00000
+</Trace>
+    </Geometry>
+  </Section>
+</SystemFaultSections>

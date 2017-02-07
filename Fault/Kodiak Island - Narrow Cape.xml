@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FaultSourceSet id="-1" name="Kodiak Island and Narrow Cape Faults" weight="1.0">
+  <!-- This model is an example and for review purposes only -->
+  <!-- Original source files: AKF4.out_revF.in, AKF5.out_revF.in -->
+  <Settings>
+    <MagUncertainty>
+      <Epistemic cutoff="6.5" deltas="[-0.2, 0.0, 0.2]" weights="[0.2, 0.6, 0.2]"/>
+      <Aleatory count="11" cutoff="6.5" moBalance="true" sigma="0.12"/>
+    </MagUncertainty>
+    <SourceProperties ruptureScaling="NSHM_FAULT_WC94_LENGTH"/>
+  </Settings>
+  <Source id="-1" name="Kodiak Island">
+    <IncrementalMfd type="GR" a="2.4759" b="0.87" dMag="0.1" mMin="6.5" mMax="7.5" weight="0.5"/>
+    <IncrementalMfd type="SINGLE" rate="9.95405e-6" m="7.5" weight="0.5" floats="true"/>
+    <Geometry depth="0.0" dip="90.0" rake="0.0" width="15.0">
+      <Trace>
+208.400,58.000,0.0
+205.800,56.750,0.0
+     </Trace>
+    </Geometry>
+  </Source>
+  <Source id="-1" name="Narrow Cape">
+    <IncrementalMfd type="GR" a="2.7432" b="0.87" dMag="0.1" mMin="6.5" mMax="7.5" weight="0.5"/>
+    <IncrementalMfd type="SINGLE" rate="1.84204e-5" m="7.5" weight="0.5" floats="true"/>
+    <Geometry depth="0.0" dip="90.0" rake="0.0" width="15.0">
+      <Trace>
+209.000,58.000,0.0
+206.500,56.900,0.0
+     </Trace>
+    </Geometry>
+  </Source>
+</FaultSourceSet>
