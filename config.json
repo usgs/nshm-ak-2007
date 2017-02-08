@@ -10,5 +10,8 @@
   "curve": {
     "exceedanceModel": "TRUNCATION_OFF",
     "imts": ["PGA", "SA0P2", "SA1P0"]
+  },
+  "output": {
+    "curveTypes": [ "TOTAL", "GMM", "SOURCE"]
   }
 }
