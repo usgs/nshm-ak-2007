@@ -10,22 +10,22 @@
     <SourceProperties ruptureScaling="NSHM_FAULT_WC94_LENGTH"/>
   </Settings>
   <Source id="-1" name="Kodiak Island">
-    <IncrementalMfd type="GR" a="2.4759" b="0.87" dMag="0.1" mMin="6.5" mMax="7.5" weight="0.5"/>
+    <IncrementalMfd type="GR" a="2.4759" b="0.87" dMag="0.1" mMin="6.55" mMax="7.45" weight="0.5"/>
     <IncrementalMfd type="SINGLE" rate="9.95405e-6" m="7.5" weight="0.5" floats="true"/>
     <Geometry depth="0.0" dip="90.0" rake="0.0" width="15.0">
       <Trace>
-208.400,58.000,0.0
-205.800,56.750,0.0
+        -151.600,58.000,0.0
+        -154.200,56.750,0.0
      </Trace>
     </Geometry>
   </Source>
   <Source id="-1" name="Narrow Cape">
-    <IncrementalMfd type="GR" a="2.7432" b="0.87" dMag="0.1" mMin="6.5" mMax="7.5" weight="0.5"/>
+    <IncrementalMfd type="GR" a="2.7432" b="0.87" dMag="0.1" mMin="6.55" mMax="7.45" weight="0.5"/>
     <IncrementalMfd type="SINGLE" rate="1.84204e-5" m="7.5" weight="0.5" floats="true"/>
     <Geometry depth="0.0" dip="90.0" rake="0.0" width="15.0">
       <Trace>
-209.000,58.000,0.0
-206.500,56.900,0.0
+        -151.000,58.000,0.0
+        -153.500,56.900,0.0
      </Trace>
     </Geometry>
   </Source>

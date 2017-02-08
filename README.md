@@ -25,3 +25,7 @@ Notable implementation details (in fortran source and inputs) that set Alaska 20
   * nshmp-haz: __uses more recent (11-point; ±2σ) aleatory uncertainty model__
 * Hazard curves are not truncated at 3σ.
   * nshmp-haz: __no change__
+
+### Other Notes
+
+* Consistent with 2008 and 2014 COUS models, slab and grid Gutenberg-Richter MFD magnitudes bins are centered on 0.05; interface MFD bins are centered on 0.1.
