@@ -7,11 +7,11 @@
     "pointSourceType": "FINITE",
     "areaGridScaling": "SCALED_SMALL"
   },
-  "curve": {
-    "exceedanceModel": "TRUNCATION_OFF",
+  "hazard": {
+    "exceedanceModel": "TRUNCATION_3SIGMA_UPPER",
     "imts": ["PGA", "SA0P2", "SA1P0"]
   },
   "output": {
-    "curveTypes": [ "TOTAL", "GMM", "SOURCE"]
+    "dataTypes": [ "TOTAL", "GMM", "SOURCE"]
   }
 }
