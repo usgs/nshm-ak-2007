@@ -1,0 +1,47 @@
+{
+  "version": "2.0.0",
+  "measurementType": {},
+  "agency": "U.S. Department of Interior",
+  "releases": [
+    {
+      "name": "nshm-ak-2007",
+      "description": "National Seismic Hazard Model (NSHM): Alaska 2007",
+      "version": "2.1.0",
+      "status": "Beta",
+      "organization": "U.S. Geological Survey",
+      "vcs": "git",
+      "repositoryURL": "https://github.com/usgs/nshm-ak-2007",
+      "homepageURL": "https://github.com/usgs/nshmp-haz/wiki",
+      "downloadURL": "https://github.com/usgs/nshm-ak-2007/releases/tag/v2.1.0",
+      "disclaimerURL": "https://github.com/usgs/nshm-ak-2007/blob/master/DISCLAIMER.md",
+      "permissions": {
+        "licenses": [
+          {
+            "name": "Public Domain",
+            "URL": "https://github.com/usgs/nshm-ak-2007/blob/master/LICENSE.md"
+          }
+        ],
+        "usageType": "openSource",
+        "exemptionText": null
+      },
+      "laborHours": 200,
+      "languages": [ "XML" ],
+      "tags": [
+        "psha",
+        "nshmp-haz",
+        "seismic-hazard",
+        "seismic-source",
+        "earthquake-hazard",
+        "earthquake-source",
+        "earthquake-source-characterization"
+      ],
+      "contact": {
+        "name": "Peter Powers",
+        "email": "pmpowers@usgs.gov"
+      },
+      "date": {
+        "metadataLastUpdated": "2017-09-18"
+      }
+    }
+  ]
+}
