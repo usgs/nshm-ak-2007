@@ -13,5 +13,8 @@
   },
   "output": {
     "dataTypes": [ "TOTAL", "GMM", "SOURCE"]
+  },
+  "performance": {
+    "smoothGrids": false
   }
 }
